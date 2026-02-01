@@ -1,0 +1,4 @@
+{
+    "initial_bot_message": "Hello,I am English bot,do you need any help?",
+    "functions": ["tìm synonym", "tìm phonetic symbol"]
+}
